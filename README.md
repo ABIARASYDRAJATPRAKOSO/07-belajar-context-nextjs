@@ -28,3 +28,12 @@ Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM p
 ![alt text](image4.png)
 
 Jangan lupa push dengan pesan commit: "W07: Jawaban soal 4".
+
+Soal 5
+
+Silakan save semua dan lakukan running di browser Anda. Capture hasilnya dan buatlah laporan di README.md. Tambahkan teks Nama dan NIM pada setiap page routing agar menunjukkan itu hasil kerja Anda sendiri!
+![alt text](image5.png)
+Apakah toggle button tema sudah berfungsi ? jika belum, silakan perbaiki!
+![alt text](image6.png)
+Mengapa ketika refresh atau berpindah halaman tema tidak permanen ? Buatlah menjadi permanen walaupun page sudah direfresh dan pindah halaman!
+Jangan lupa push dengan pesan commit: "W07: Jawaban soal 5".

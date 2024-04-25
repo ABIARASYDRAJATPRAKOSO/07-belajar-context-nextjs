@@ -3,15 +3,14 @@ import Post from "../atoms/post";
 import Section2 from "../atoms/section2";
 import AllPosts from "../organisms/allposts";
 
-export default function ProfilePage(){
-    return(
+export default function AboutPage(){
+    return (
         <Section2 isFancy={true}>
-            <Heading>Profil Saya</Heading>
-            <Post
-                title="Hello Traveler"
-                body="Baca tentang petualangan saya"
+            <Heading>About</Heading>
+            <Post 
+                title="About"
+                body="Yuhuuuw"
             />
-            <AllPosts/>
         </Section2>
     )
 }
